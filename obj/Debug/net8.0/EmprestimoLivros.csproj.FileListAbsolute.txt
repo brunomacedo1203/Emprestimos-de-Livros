@@ -144,3 +144,12 @@ E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\r
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.pdb
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.genruntimeconfig.cache
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\ref\EmprestimoLivros.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.sourcelink.json
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\ClosedXML.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\ClosedXML.Parser.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\RBush.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\System.IO.Packaging.dll

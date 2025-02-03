@@ -1,8 +1,11 @@
 ﻿@model IEnumerable<EmprestimosModel>
 <div class="container">
     <div class="d-flex justify-content-between align-items-center mb-5">
-        <h1>Empréstimos</h1>       
+        <h1>Empréstimos</h1>    
+        <div>
         <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Cadastrar">Cadastrar novo empréstimo</a>
+        <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Exportar"><i class="bi-file-earmark-plus me-2"></i>Exportar</a>
+        </div>
     </div>
 
     @if(TempData["MensagemSucesso"] !=null)
