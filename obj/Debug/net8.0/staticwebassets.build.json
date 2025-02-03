@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bhGwezzZw6NzXz8hlW8CAXZKcAcq/oxcEKHfdbwNKFg=",
+  "Hash": "dsQ7y/F5LfUSvwdQFN5wuQkYMreO1PEEgKiNpWWV3Z4=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4r1in30zze",
-      "Integrity": "YPx3N2JKi1RQx7visry2WSY04KXcROQ1KElt2opT+kg=",
+      "Fingerprint": "d373stsrqm",
+      "Integrity": "qfZco5xxQb5kKVpHqjrXSi8emb9fuX8O0FGFVIn3aTw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Materia.css"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7wtxk6vevr",
-      "Integrity": "l/H9DRWBglA281d8im1RnIdjKmE50D0q8oaV/qbU13M=",
+      "Fingerprint": "kuaf0x5ddd",
+      "Integrity": "rJjvAhxrn7QE+5lzRafNOJgwpcWdI3rm+iHPHH/TTuc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1363,51 +1363,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/Materia.4r1in30zze.css",
-      "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "298784"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YPx3N2JKi1RQx7visry2WSY04KXcROQ1KElt2opT+kg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 22:06:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4r1in30zze"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Materia.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YPx3N2JKi1RQx7visry2WSY04KXcROQ1KElt2opT+kg="
-        }
-      ]
-    },
-    {
       "Route": "css/Materia.css",
       "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
       "Selectors": [],
@@ -1418,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "298784"
+          "Value": "298708"
         },
         {
           "Name": "Content-Type",
@@ -1426,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YPx3N2JKi1RQx7visry2WSY04KXcROQ1KElt2opT+kg=\""
+          "Value": "\"qfZco5xxQb5kKVpHqjrXSi8emb9fuX8O0FGFVIn3aTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 22:06:07 GMT"
+          "Value": "Sat, 01 Feb 2025 22:49:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1440,7 +1395,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YPx3N2JKi1RQx7visry2WSY04KXcROQ1KElt2opT+kg="
+          "Value": "sha256-qfZco5xxQb5kKVpHqjrXSi8emb9fuX8O0FGFVIn3aTw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Materia.d373stsrqm.css",
+      "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qfZco5xxQb5kKVpHqjrXSi8emb9fuX8O0FGFVIn3aTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 22:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d373stsrqm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Materia.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qfZco5xxQb5kKVpHqjrXSi8emb9fuX8O0FGFVIn3aTw="
         }
       ]
     },
@@ -1467,7 +1467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 12:24:32 GMT"
+          "Value": "Sat, 01 Feb 2025 22:51:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1512,7 +1512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 12:24:32 GMT"
+          "Value": "Sat, 01 Feb 2025 22:51:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1855,51 +1855,6 @@
       ]
     },
     {
-      "Route": "js/site.7wtxk6vevr.js",
-      "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1221"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l/H9DRWBglA281d8im1RnIdjKmE50D0q8oaV/qbU13M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 21:59:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7wtxk6vevr"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-l/H9DRWBglA281d8im1RnIdjKmE50D0q8oaV/qbU13M="
-        }
-      ]
-    },
-    {
       "Route": "js/site.js",
       "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1910,7 +1865,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1221"
+          "Value": "1273"
         },
         {
           "Name": "Content-Type",
@@ -1918,11 +1873,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l/H9DRWBglA281d8im1RnIdjKmE50D0q8oaV/qbU13M=\""
+          "Value": "\"rJjvAhxrn7QE+5lzRafNOJgwpcWdI3rm+iHPHH/TTuc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 21:59:32 GMT"
+          "Value": "Mon, 03 Feb 2025 13:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1932,7 +1887,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l/H9DRWBglA281d8im1RnIdjKmE50D0q8oaV/qbU13M="
+          "Value": "sha256-rJjvAhxrn7QE+5lzRafNOJgwpcWdI3rm+iHPHH/TTuc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.kuaf0x5ddd.js",
+      "AssetFile": "E:\\OneDrive\\Documentos\\.NET\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rJjvAhxrn7QE+5lzRafNOJgwpcWdI3rm+iHPHH/TTuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 13:34:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kuaf0x5ddd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rJjvAhxrn7QE+5lzRafNOJgwpcWdI3rm+iHPHH/TTuc="
         }
       ]
     },

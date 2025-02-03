@@ -144,4 +144,3 @@ E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\r
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.pdb
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.genruntimeconfig.cache
 E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\ref\EmprestimoLivros.dll
-E:\OneDrive\Documentos\.NET\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.sourcelink.json
