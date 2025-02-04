@@ -9,3 +9,5 @@ Frontend: HTML, CSS, JavaScript (utilizando jQuery e DataTables para exibição 
 Backend: ASP.NET Core MVC, C# e Entity Framework Core para interação com o banco de dados Oracle.
 
 Exportação para Excel: ClosedXML, utilizado para gerar e exportar os dados para planilhas.
+
+[EmprestimoLivros.webm](https://github.com/user-attachments/assets/804949bf-f2cc-4182-abc9-f7d363feab5c)
