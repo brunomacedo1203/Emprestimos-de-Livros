@@ -11,3 +11,17 @@ Backend: ASP.NET Core MVC, C# e Entity Framework Core para interação com o ban
 Exportação para Excel: ClosedXML, utilizado para gerar e exportar os dados para planilhas.
 
 [EmprestimoLivros.webm](https://github.com/user-attachments/assets/804949bf-f2cc-4182-abc9-f7d363feab5c)
+
+SUMMARY
+
+The project is a CRUD web application that provides an environment for managing book loans.
+
+The main features include: creating, editing, and deleting loan records, as well as the ability to export data to Excel.
+
+Tech Stack:
+
+Frontend: HTML, CSS, JavaScript (using jQuery and DataTables for dynamic record display).
+
+Backend: ASP.NET Core MVC, C#, and Entity Framework Core for database interaction with Oracle.
+
+Excel Export: ClosedXML, used to generate and export data to spreadsheets.
