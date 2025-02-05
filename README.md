@@ -1,4 +1,4 @@
-RESUNO
+RESUMO
 
 O projeto é uma aplicação web CRUD que oferece um ambiente para gerenciar o empréstimo de livros.
 
